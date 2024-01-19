@@ -1,0 +1,105 @@
+{
+    "donations": [
+      {
+        "id": 1,
+        "organization": "World Food Programme",
+        "Nairobi": 500000,
+        "Mombasa": 300000,
+        "Kisumu": 200000,
+        "Eldoret": 150000,
+        "Nakuru": 180000,
+        "Kakamega": 120000
+      },
+      {
+        "id": 2,
+        "organization": "UNICEF",
+        "Nairobi": 200000,
+        "Mombasa": 150000,
+        "Kisumu": 100000,
+        "Eldoret": 80000,
+        "Nakuru": 120000,
+        "Kakamega": 90000
+      },
+      {
+        "id": 3,
+        "organization": "Save the Children",
+        "Nairobi": 180000,
+        "Mombasa": 120000,
+        "Kisumu": 80000,
+        "Eldoret": 100000,
+        "Nakuru": 130000,
+        "Kakamega": 110000
+      },
+      {
+        "id": 4,
+        "organization": "Oxfam",
+        "Nairobi": 250000,
+        "Mombasa": 170000,
+        "Kisumu": 120000,
+        "Eldoret": 80000,
+        "Nakuru": 150000,
+        "Kakamega": 100000
+      },
+      {
+        "id": 5,
+        "organization": "CARE International",
+        "Nairobi": 220000,
+        "Mombasa": 160000,
+        "Kisumu": 110000,
+        "Eldoret": 90000,
+        "Nakuru": 140000,
+        "Kakamega": 95000
+      },
+      {
+        "id": 6,
+        "organization": "Action Against Hunger",
+        "Nairobi": 180000,
+        "Mombasa": 130000,
+        "Kisumu": 90000,
+        "Eldoret": 70000,
+        "Nakuru": 110000,
+        "Kakamega": 80000
+      },
+      {
+        "id": 7,
+        "organization": "Mercy Corps",
+        "Nairobi": 210000,
+        "Mombasa": 140000,
+        "Kisumu": 100000,
+        "Eldoret": 95000,
+        "Nakuru": 120000,
+        "Kakamega": 85000
+      },
+      {
+        "id": 8,
+        "organization": "Islamic Relief",
+        "Nairobi": 150000,
+        "Mombasa": 110000,
+        "Kisumu": 70000,
+        "Eldoret": 85000,
+        "Nakuru": 100000,
+        "Kakamega": 75000
+      },
+      {
+        "id": 9,
+        "organization": "Doctors Without Borders",
+        "Nairobi": 200000,
+        "Mombasa": 120000,
+        "Kisumu": 80000,
+        "Eldoret": 90000,
+        "Nakuru": 110000,
+        "Kakamega": 85000
+      },
+      {
+        "id": 10,
+        "organization": "Food for the Hungry",
+        "Nairobi": 230000,
+        "Mombasa": 150000,
+        "Kisumu": 100000,
+        "Eldoret": 85000,
+        "Nakuru": 130000,
+        "Kakamega": 95000
+      }
+    ]
+  }
+  
